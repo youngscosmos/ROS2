@@ -1,0 +1,30 @@
+[0.475s] Invoking command in '/home/ian/ros2_study/src/my_first_package': PYTHONPATH=/home/ian/ros2_study/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/ian/ros2_study/build/my_first_package/build install --record /home/ian/ros2_study/build/my_first_package/install.log --single-version-externally-managed install_data
+[0.645s] running egg_info
+[0.645s] writing ../../build/my_first_package/my_first_package.egg-info/PKG-INFO
+[0.645s] writing dependency_links to ../../build/my_first_package/my_first_package.egg-info/dependency_links.txt
+[0.645s] writing entry points to ../../build/my_first_package/my_first_package.egg-info/entry_points.txt
+[0.645s] writing requirements to ../../build/my_first_package/my_first_package.egg-info/requires.txt
+[0.645s] writing top-level names to ../../build/my_first_package/my_first_package.egg-info/top_level.txt
+[0.646s] reading manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.647s] writing manifest file '../../build/my_first_package/my_first_package.egg-info/SOURCES.txt'
+[0.647s] running build
+[0.647s] running build_py
+[0.647s] copying my_first_package/dist_turtle_action_server.py -> /home/ian/ros2_study/build/my_first_package/build/lib/my_first_package
+[0.648s] running install
+[0.648s] running install_lib
+[0.648s] copying /home/ian/ros2_study/build/my_first_package/build/lib/my_first_package/dist_turtle_action_server.py -> /home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages/my_first_package
+[0.649s] byte-compiling /home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages/my_first_package/dist_turtle_action_server.py to dist_turtle_action_server.cpython-310.pyc
+[0.649s] running install_data
+[0.649s] running install_egg_info
+[0.650s] removing '/home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info' (and everything under it)
+[0.650s] Copying ../../build/my_first_package/my_first_package.egg-info to /home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages/my_first_package-0.0.0-py3.10.egg-info
+[0.651s] running install_scripts
+[0.661s] Installing dist_turtle_action_server script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.661s] Installing my_first_node script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.661s] Installing my_multi_thread script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.662s] Installing my_publisher script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.662s] Installing my_service_server script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.662s] Installing my_subscriber script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.662s] Installing turtle_cmd_and_pose script to /home/ian/ros2_study/install/my_first_package/lib/my_first_package
+[0.662s] writing list of installed files to '/home/ian/ros2_study/build/my_first_package/install.log'
+[0.675s] Invoked command in '/home/ian/ros2_study/src/my_first_package' returned '0': PYTHONPATH=/home/ian/ros2_study/build/my_first_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ian/ros2_study/install/my_first_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_package build --build-base /home/ian/ros2_study/build/my_first_package/build install --record /home/ian/ros2_study/build/my_first_package/install.log --single-version-externally-managed install_data
